@@ -1,0 +1,5 @@
+{
+  "name": "AI Winter Dress-Up",
+  "description": "Upload a photo of a person and this application will use AI to dress them in a stylish winter outfit. See a before-and-after comparison and download the result.",
+  "requestFramePermissions": []
+}
